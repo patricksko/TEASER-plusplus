@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -flto -shared  -o teaserpp_python/_teaserpp.cpython-310-x86_64-linux-gnu.so CMakeFiles/teaserpp_python.dir/teaserpp_python/teaserpp_python.cc.o  -Wl,-rpath,/home/skoumal/dev/TEASER-plusplus/build/teaser ../teaser/libteaser_registration.so /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 
